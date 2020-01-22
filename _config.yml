@@ -1,11 +1,11 @@
 # Site settings
-author: Tabitha Perez
-title: 
+author: T Perez
+title: Student Blog
 header-img: img/home-bg.png
 email: thuante88@gmail.com
-copyright_name: Tabitha Perez
+copyright_name: T Perez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  for Flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  thuante88
